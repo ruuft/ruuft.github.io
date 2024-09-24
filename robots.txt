@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ruuft.github.io/HAG/sitemap.HAG.gz
